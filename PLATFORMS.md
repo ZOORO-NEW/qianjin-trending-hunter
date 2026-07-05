@@ -88,7 +88,7 @@ response = client.chat.completions.create(
 ## 文件清单
 
 ```
-trending-topic-hunter/
+qianjin-trending-hunter/
 ├── README.md
 ├── SKILL.md
 ├── PLATFORMS.md
@@ -106,4 +106,4 @@ trending-topic-hunter/
 ---
 
 **License**: MIT
-**GitHub**: https://github.com/ZOORO-NEW/trending-topic-hunter
+**GitHub**: https://github.com/ZOORO-NEW/qianjin-trending-hunter

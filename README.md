@@ -116,4 +116,4 @@ MIT License - 允许个人和商业使用。
 
 ---
 
-**GitHub**: https://github.com/ZOORO-NEW/trending-topic-hunter
+**GitHub**: https://github.com/ZOORO-NEW/qianjin-trending-hunter

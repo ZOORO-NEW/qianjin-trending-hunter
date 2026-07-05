@@ -1,5 +1,5 @@
 ---
-name: trending-topic-hunter
+name: qianjin-trending-hunter
 version: 1.0.0
 description: 热点选题猎手 - 国内外8大行业热点选题研究与爆款内容建议工具
 author: ZOORO-NEW
@@ -379,6 +379,6 @@ Step 8: 输出完整报告
 
 ---
 
-**GitHub仓库**：https://github.com/ZOORO-NEW/trending-topic-hunter
+**GitHub仓库**：https://github.com/ZOORO-NEW/qianjin-trending-hunter
 
 **重要提醒**：本技能的核心价值是"帮运营人员发现选题、提供爆款思路"，不是替运营写内容。所有选题建议仅供参考，最终内容创作需运营人员结合自身定位和平台规则执行。
