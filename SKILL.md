@@ -2,7 +2,7 @@
 slug: qianjin-trending-hunter
 displayName: 热点选题猎手
 summary: "热点选题猎手 - 按用户指定行业挖掘热点选题与爆款内容建议工具（内置8大行业作为默认兜底）"
-name: qianjin-trending-hunter
+name: qianjin-topic
 version: 1.0.0
 category: 内容创作
 platforms: [workbuddy, claude-code, cursor, windsurf, codex]
